@@ -2,7 +2,7 @@ name: "anthonypileggi.github.io"
 title: "Anthony Pileggi"
 description: |
   Anthony Pileggi
-output_dir: "_site"
+output_dir: "."
 navbar:
   right:
     - text: "Home"
