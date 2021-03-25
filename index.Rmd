@@ -1,15 +1,20 @@
 ---
 title: "Anthony Pileggi"
-description: |
-  Welcome to the website. I hope you enjoy it!
+image: "images/anthony-circle.png"
+links:
+  - label: GitHub
+    url: "https://github.com/anthonypileggi"
+  - label: Email
+    url: "apileggi20@gmail.com"
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
+ 
+I have been the first/only data scientist at two ecommerce companies, and shaped the foundations of how they approach and utilize their data.  
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+I work with company leaders to drive revenue, optimize profits, and improve productivity through data-driven strategy, tools, and analyses.  
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+I am a skilled coder and determined problem-solver with a strong background in advanced statistical concepts.  
 
-```
-
+I have devised strategies, built tools, and implemented procedures that have saved thousands of hours in labor and generated millions of dollars in additional revenue.

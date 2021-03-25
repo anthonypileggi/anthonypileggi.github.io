@@ -1,20 +1,19 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-25T07:59:50-04:00"
-    },
-    {
       "path": "index.html",
       "title": "Anthony Pileggi",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-25T07:59:51-04:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          Anthony Pileggi\r\n          \r\n          \r\n          Home\r\n          R/Shiny\r\n          CV\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Anthony Pileggi\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I have been the first/only data scientist at two ecommerce companies, and shaped the foundations of how they approach and utilize their data.\r\n            I work with company leaders to drive revenue, optimize profits, and improve productivity through data-driven strategy, tools, and analyses.\r\n            I am a skilled coder and determined problem-solver with a strong background in advanced statistical concepts.\r\n            I have devised strategies, built tools, and implemented procedures that have saved thousands of hours in labor and generated millions of dollars in additional revenue.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Anthony Pileggi\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I have been the first/only data scientist at two ecommerce companies, and shaped the foundations of how they approach and utilize their data.\r\n              I work with company leaders to drive revenue, optimize profits, and improve productivity through data-driven strategy, tools, and analyses.\r\n              I am a skilled coder and determined problem-solver with a strong background in advanced statistical concepts.\r\n              I have devised strategies, built tools, and implemented procedures that have saved thousands of hours in labor and generated millions of dollars in additional revenue.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-03-25T08:44:05-04:00"
+    },
+    {
+      "path": "rshiny.html",
+      "title": "R/Shiny",
+      "description": "Development work in R/Shiny",
+      "author": [],
+      "contents": "\r\nI’ve written R packages that let you play casino games and create word puzzles.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-25T08:44:07-04:00"
     }
   ],
   "collections": []

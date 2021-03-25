@@ -3,10 +3,19 @@ title: "Anthony Pileggi"
 description: |
   Anthony Pileggi
 output_dir: "."
+base_url: https://anthonypileggi.github.io/
+repository_url: https://github.com/anthonypileggi/anthonypileggi.github.io
 navbar:
+  logo:
+    image: images/anthony-circle.png
+    href: http://anthonypileggi.github.io
   right:
     - text: "Home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "R/Shiny"
+      href: rshiny.html
+    - text: "CV"
+      href: https://github.com/anthonypileggi/cv/raw/master/cv.pdf
+  source_url: true
+    
 output: distill::distill_article
