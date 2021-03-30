@@ -1,19 +1,23 @@
 name: "anthonypileggi.github.io"
 title: "Anthony Pileggi"
+favicon: images/favicon.ico
 description: |
   Anthony Pileggi
 output_dir: "."
-base_url: https://anthonypileggi.github.io/
+base_url: https://www.stochastic-squirrel.com/
 repository_url: https://github.com/anthonypileggi/anthonypileggi.github.io
+google_analytics: "UA-114744558-2"
 navbar:
   logo:
     image: images/anthony-circle.png
-    href: http://anthonypileggi.github.io
+    href: https://www.stochastic-squirrel.com
   right:
     - text: "Home"
       href: index.html
-    - text: "R/Shiny"
+    - text: "Shiny Apps"
       href: rshiny.html
+    - text: "R Packages"
+      href: rpackages.html
     - text: "CV"
       href: https://github.com/anthonypileggi/cv/raw/master/cv.pdf
   source_url: true

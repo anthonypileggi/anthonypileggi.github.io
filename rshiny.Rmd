@@ -1,11 +1,11 @@
 ---
-title: "R/Shiny"
+title: "Shiny Apps"
 description: |
-  Development work in R/Shiny
+  My collection of Shiny apps
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I've written R packages that let you [play casino games](https://github.com/anthonypileggi/casino) and [create word puzzles](https://github.com/anthonypileggi/worrrd).
+- [Memory](https://sqwerl.shinyapps.io/memory)
