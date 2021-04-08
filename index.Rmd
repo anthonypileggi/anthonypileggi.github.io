@@ -5,7 +5,7 @@ links:
   - label: GitHub
     url: "https://github.com/anthonypileggi"
   - label: Email
-    url: "apileggi20@gmail.com"
+    url: "mailto:apileggi20@gmail.com"
 site: distill::distill_website
 output:
   postcards::trestles

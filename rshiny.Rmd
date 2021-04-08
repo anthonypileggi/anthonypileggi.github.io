@@ -9,4 +9,5 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 - [Memory](https://sqwerl.shinyapps.io/memory)
+- [Minesweeper](https://sqwerl.shinyapps.io/minesweeper)
 - [Octopath Traveler](https://sqwerl.shinyapps.io/octopath-traveler)
