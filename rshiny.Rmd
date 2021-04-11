@@ -8,6 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-- [Memory](https://sqwerl.shinyapps.io/memory)
 - [Minesweeper](https://sqwerl.shinyapps.io/minesweeper)
+- [A Mazing Game](https://sqwerl.shinyapps.io/a-mazing-game)
 - [Octopath Traveler](https://sqwerl.shinyapps.io/octopath-traveler)
+- [Memory](https://sqwerl.shinyapps.io/memory)

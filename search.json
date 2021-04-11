@@ -5,7 +5,7 @@
       "title": "Anthony Pileggi",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          \r\n          \r\n          Anthony Pileggi\r\n          \r\n          \r\n          Home\r\n          Shiny Apps\r\n          R Packages\r\n          CV\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Anthony Pileggi\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        GitHub\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        Email\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I have been the first/only data scientist at two ecommerce companies, and shaped the foundations of how they approach and utilize their data.\r\n            I work with company leaders to drive revenue, optimize profits, and improve productivity through data-driven strategy, tools, and analyses.\r\n            I am a skilled coder and determined problem-solver with a strong background in advanced statistical concepts.\r\n            I have devised strategies, built tools, and implemented procedures that have saved thousands of hours in labor and generated millions of dollars in additional revenue.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Anthony Pileggi\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I have been the first/only data scientist at two ecommerce companies, and shaped the foundations of how they approach and utilize their data.\r\n              I work with company leaders to drive revenue, optimize profits, and improve productivity through data-driven strategy, tools, and analyses.\r\n              I am a skilled coder and determined problem-solver with a strong background in advanced statistical concepts.\r\n              I have devised strategies, built tools, and implemented procedures that have saved thousands of hours in labor and generated millions of dollars in additional revenue.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-04-07T21:25:03-04:00"
+      "last_modified": "2021-04-10T22:12:22-04:00"
     },
     {
       "path": "rpackages.html",
@@ -13,15 +13,15 @@
       "description": "Development work in R",
       "author": [],
       "contents": "\r\nI’ve written R packages that let you play casino games and create word puzzles.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-07T21:25:04-04:00"
+      "last_modified": "2021-04-10T22:12:23-04:00"
     },
     {
       "path": "rshiny.html",
       "title": "Shiny Apps",
       "description": "My collection of Shiny apps",
       "author": [],
-      "contents": "\r\nMemory\r\nMinesweeper\r\nOctopath Traveler\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-04-07T21:25:04-04:00"
+      "contents": "\r\nMinesweeper\r\nA Mazing Game\r\nOctopath Traveler\r\nMemory\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-10T22:12:23-04:00"
     }
   ],
   "collections": []
