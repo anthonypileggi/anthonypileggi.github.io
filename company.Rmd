@@ -1,0 +1,12 @@
+---
+title: "Stochastic Squirrel LLC"
+image: "images/stochastic-squirrel-circle.png"
+links:
+  - label: Contact Us
+    url: "mailto:apileggi20@gmail.com"
+site: distill::distill_website
+output:
+  postcards::jolla
+---
+
+Helping individuals and businesses leverage data to drive success
