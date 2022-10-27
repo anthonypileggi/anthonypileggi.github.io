@@ -8,4 +8,13 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I've written R packages that let you [play casino games](https://github.com/anthonypileggi/casino) and [create word puzzles](https://github.com/anthonypileggi/worrrd).
+## CRAN
+
+* [casino](https://github.com/anthonypileggi/casino) - Play Poker, Blackjack, or Slots in the R console
+* [worrrd](https://github.com/anthonypileggi/worrrd) - Generate wordsearch and crossword puzzles
+
+## GitHub
+
+* [skuvaultr](https://github.com/anthonypileggi/skuvaultr) - Interact with the [SkuVault](https://www.skuvault.com/) API (inventory management software)
+* [channeladvisor](https://github.com/anthonypileggi/channeladvisor) - Interact with the [ChannelAdvisor](https://www.channeladvisor.com/) API (multi-channel commerce platform)
+* [shipstationr](https://github.com/anthonypileggi/shipstationr) - Interact with the [ShipStation](https://www.shipstation.com/) API (shipping software)
